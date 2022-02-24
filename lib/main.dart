@@ -27,9 +27,7 @@ class MyHomePage extends StatelessWidget {
       ),
       body: Center(
           child:
-          Text(
-            'Hello World',
-          )
+          Image.asset("assets/iphone.jpg")
       ),
     );
   }
